@@ -25,23 +25,23 @@ This platform allows users to view cars, check on-road prices, and submit review
 🛠️ Tech Stack
 Backend
 
-Django
+-Django
 
-Django REST Framework
+-Django REST Framework
 
-JWT Authentication
+-JWT Authentication
 
-SQLite / PostgreSQL
+-SQLite / PostgreSQL
 
-django-cors-headers
+-django-cors-headers
 
 Frontend
 
-React
+-React
 
 Axios
 
-React Router
+-React Router
 
 ⚙️ Backend Setup (Django)
 # Navigate to backend
@@ -89,5 +89,6 @@ http://localhost:3000/
 -Secure login & signup
 
 -Protected API endpoints
+
 
 -Token stored and sent via headers for secure requests
