@@ -90,4 +90,5 @@ http://localhost:3000/
 
 -Protected API endpoints
 
+
 -Token stored and sent via headers for secure requests
